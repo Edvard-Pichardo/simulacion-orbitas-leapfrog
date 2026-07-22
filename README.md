@@ -79,7 +79,11 @@ Como posibles líneas de mejora y desarrollo futuro se identifican:
 
 Estas oportunidades quedan abiertas para trabajo posterior.
 
-## Autor
-**Edvard Pichardo**  
-Licenciatura en Física  
+# Autor
+
+## Edvard Pichardo
+
+**Licenciado en Física**  
+Universidad Nacional Autónoma de México (UNAM)  
+
 Proyecto final — Física Computacional (2025-2)
