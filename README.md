@@ -196,7 +196,9 @@ jupyter notebook Notebooks/Anillos_Planetarios_Leapfrog.ipynb
 ## Autor y licencia
 
 **Cristian Eduardo Pichardo Rico**
-Egresado de la Licenciatura en Física, Facultad de Ciencias, UNAM
-GitHub: [@Edvard-Pichardo](https://github.com/Edvard-Pichardo)
 
-Proyecto final de Física Computacional (2025-2). Distribuido bajo la licencia **MIT**; consulta el archivo [LICENSE](LICENSE).
+Egresado de la Licenciatura en Física, Facultad de Ciencias, UNAM
+
+Linkedin: [Edvard Pichardo](https://www.linkedin.com/in/edvard-pichardo) · GitHub: [@Edvard-Pichardo](https://github.com/Edvard-Pichardo)
+
+Distribuido bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICENSE) para más información.
